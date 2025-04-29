@@ -45,6 +45,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
   <img width="12" />
+     <a href="https://www.notion.so/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="40" alt="Notion"/>
+</a>
+<img width="12" />
+
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
   <img width="12" />
   <a href="https://codeforces.com/profile/joe1.9">
@@ -61,11 +66,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40" alt="HackerRank"/>
 </a>
 
-<img width="12" />
 
-<a href="https://www.notion.so/HOME-PAGE-706a7e36b5144d0d837b5844a0d401cd" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="40" alt="Notion"/>
-</a>
 
 
 
