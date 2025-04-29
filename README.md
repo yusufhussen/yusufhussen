@@ -99,6 +99,9 @@
   <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="WhatsApp"/>
 </a>
 
+<a href="https://linktr.ee/holy_quran1.9" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=39E0B8&logoColor=white&labelColor=&style=for-the-badge" alt="Linktree"/>
+</a>
 
 
 ---
