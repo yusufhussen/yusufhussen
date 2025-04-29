@@ -62,7 +62,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
   
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="40" alt="Notion"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="40" alt="Notion"/>
 
 <img width="12" />
 
