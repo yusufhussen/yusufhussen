@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf Muhammad</h1>
-<h3 align="center">Cybersecurity Student from Egypt 
-  Passionate about Cybersecurity and Problem Solving | Learning C/C++, Python, and Web Development | Exploring Linux & Security</h3>
+<h3 align="center">Cybersecurity Student from Egypt Passionate about Cybersecurity and Problem Solving | Learning C/C++, Python, and Web Development | Exploring Linux & Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufhussen&label=Profile%20views&color=0e75b6&style=flat" alt="yusufhussen" /> </p>
 
@@ -23,6 +22,7 @@
 <a href="https://www.hackerrank.com/yusufmohammadhu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yusufmohammadhu1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/joe1.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="joe1.9" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abyssblade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abyssblade" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/yusufmohammm7td" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yusufmohammm7td" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/VYDSdUkTBa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VYDSdUkTBa" height="30" width="40" /></a>
 </p>
 
