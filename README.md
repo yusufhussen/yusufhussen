@@ -1,12 +1,12 @@
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/fde6ddf2-c6e6-4d8c-a997-9cfb68118357" 
-       alt="MasterHead" 
-       style="width: 100%; height: 20%; display: block; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4eeab404-c060-4c2b-8e37-df2a6e23dc4e" 
+       width="400" 
+       alt="Image" 
+       style="display: block; margin: 0 auto; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
 </div>
 <h1 align="center">Hi 👋, I'm Yusuf Muhammad</h1>
 <h3 align="center">Cybersecurity Student from Egypt</h3>
-<img align="left" alt="Coding" width="500" src="https://github.com/user-attachments/assets/255b23f3-90b6-4b94-b35c-02ba8be12950">
-
+<img align="left" alt="Coding" width="500" style="height: auto;" src="https://github.com/user-attachments/assets/85ed73d1-0c78-4ca3-bcde-41fabc0c671e">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufhussen&label=Profile%20views&color=0e75b6&style=flat" alt="yusufhussen" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hu37151987" target="blank"><img src="https://img.shields.io/twitter/follow/hu37151987?logo=twitter&style=for-the-badge" alt="hu37151987" /></a> </p>
