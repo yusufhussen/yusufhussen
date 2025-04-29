@@ -1,70 +1,117 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4eeab404-c060-4c2b-8e37-df2a6e23dc4e" 
-       alt="Profile Picture" 
-       style="border-radius: 15px; width: 150px; box-shadow: 0 6px 12px rgba(0,0,0,0.2);">
+<img src="https://github.com/user-attachments/assets/4eeab404-c060-4c2b-8e37-df2a6e23dc4e" 
+     alt="Image" 
+     style="width: 100%; height: auto; display: block; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-  <h1>👋 Hi, I'm Yusuf Muhammad</h1>
-  <h3>🎓 Cybersecurity Student | Egypt 🇪🇬 | C/C++ • Python • Web Dev</h3>
-
-  <p><strong>Ask me about:</strong> Cybersecurity, Problem Solving, Linux, Programming, Penetration Testing 💻🔐</p>
-
-  <p>Email: <a href="mailto:yusufmohammadhussein@gmail.com">yusufmohammadhussein@gmail.com</a></p>
-
-  <div style="margin-top: 15px;">
-    <a href="https://twitter.com/hu37151987"><img src="https://img.shields.io/twitter/follow/hu37151987?logo=twitter&style=social" /></a>
-    <a href="https://linkedin.com/in/yusuf-husayn-39b148331"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" /></a>
-    <a href="https://codeforces.com/profile/joe1.9"><img src="https://img.shields.io/codeforces/school/255285.png?label=Codeforces&style=social" /></a>
-  </div>
-
-  <hr style="width: 80%; margin: 30px auto;">
-</div>
-
-### 🧠 My Skills
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" /></a>
-  <a href="https://cplusplus.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" /></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3" /></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git" /></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux" /></a>
-</div>
-
-### 📊 GitHub Stats
+<h1 align="center">👋 Hi, I'm Yusuf Muhammad — Cybersecurity Student from Egypt</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufhussen&show_icons=true&theme=dracula" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufhussen&theme=onedark" width="49%" />
+  🔍 Passionate about Cybersecurity and Problem Solving | Learning C/C++, Python, and Web Development | Exploring Linux & Security
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufhussen" />
-  <img src="https://komarev.com/ghpvc/?username=yusufhussen&color=orange" />
-</p>
-
-### 🤝 Connect with Me
-
-<div style="margin-top: 20px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://codepen.io/yusuf-muhammad-husayn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" title="CodePen" /></a>
-  <a href="https://twitter.com/hu37151987"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" title="Twitter" /></a>
-  <a href="https://linkedin.com/in/yusuf-husayn-39b148331"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" title="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/28591458"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" title="Stack Overflow" /></a>
-  <a href="https://leetcode.com/abyssblade"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" title="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/joe1.9"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" title="Codeforces" /></a>
-  <a href="https://instagram.com/yusuf_husayn1.2"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" title="Instagram" /></a>
-  <a href="https://fb.com/profile.php?id=100092586386026"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" title="Facebook" /></a>
-  <a href="https://www.hackerrank.com/yusufmohammadhu1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" title="HackerRank" /></a>
-</div>
-
-<hr style="width: 80%; margin: 30px auto;">
-
-### 🐍 Snake Game (SVG)
-
-<center>
-  <img src="https://raw.githubusercontent.com/yusufhussen/yusufhussen/output/snake.svg" width="100%" alt="Snake Animation" style="max-width: 600px;" />
-</center>
 
 ---
 
-Made with ❤️ by **Yusuf Muhammad** – [Edit this on GitHub](https://github.com/yusufhussen/yusufhussen)
+### 🧠 My Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" alt="Markdown"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/lua/2C2D72" height="50" alt="Lua"/>
+</div>
+
+---
+
+### 🛠 Tools & Skills
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
+  <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
+  <img width="12" />
+  <a href="https://codeforces.com/profile/joe1.9">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" title="Codeforces" /> </a>
+<img width="12" />
+
+<a href="https://stackoverflow.com/users/28591458/yusuf-mohammad-hussein" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="40" alt="Stack Overflow"/>
+</a>
+
+<img width="12" />
+
+<a href="https://www.hackerrank.com/profile/yusufmohammadhu1" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40" alt="HackerRank"/>
+</a>
+
+---
+
+### 🌐 Social Media
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yusuf-husayn-39b148331/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/Yusuf_Mu_Husayn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="Telegram"/>
+  </a>
+  <a href="https://x.com/hu37151987" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" alt="Twitter"/>
+  </a>
+  <a href="yusufmohammadhussein@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail"/>
+  </a>
+  <a href="https://discord.gg/VYDSdUkTBa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord"/>
+  </a>
+  <a href="https://www.instagram.com/yusuf_husayn1.2/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram"/>
+  </a>
+
+
+---
+
+### 📈 My Stats
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufhussen&radius=16&theme=react&area=true" width="500" alt="Activity Graph"/>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufhussen&show_icons=true&theme=dracula&locale=en" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufhussen&theme=dracula&locale=en" alt="Top Langs" />
+</div>
+
+---
+
+### 👁️‍🗨️ Profile Views
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/yusufhussen/count.svg" alt="Profile Views Counter" />
+</div>
+
+---
+### 🐍 Snake Game (SVG)
+<img src="https://raw.githubusercontent.com/yusufhussen/yusufhussen/output/snake.svg" width = 1500 alt="Snake animation" />
+
+> Built with 🤍 using Markdown, GitHub API, and SVG Animations  
+> 🔧 Maintained by Yusuf Muhammad 🥷🏻
+
+
