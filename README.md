@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf Muhammad</h1>
 <h3 align="center">Cybersecurity Student from Egypt</h3>
+<img align="right" alt="Coding" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufhussen&label=Profile%20views&color=0e75b6&style=flat" alt="yusufhussen" /> </p>
 
