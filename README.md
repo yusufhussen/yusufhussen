@@ -86,6 +86,12 @@
   </a>
 
 
+  <a href="https://wa.me/201288560851" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="WhatsApp"/>
+</a>
+
+
+
 ---
 
 ### 📈 My Stats
