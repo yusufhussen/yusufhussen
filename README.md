@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufhussen" alt="yusufhussen" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/hu37151987" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/hu37151987?logo=twitter&style=for-the-badge" alt="https://x.com/hu37151987" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hu37151987" target="blank"><img src="https://img.shields.io/twitter/follow/hu37151987?logo=twitter&style=for-the-badge" alt="hu37151987" /></a> </p>
 
 - 💬 Ask me about **Cybersecurity and Problem Solving | C/C++, Python, and Web Development | Linux & Security**
 
@@ -13,14 +13,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/hu37151987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/hu37151987" height="30" width="40" /></a>
+<a href="https://twitter.com/hu37151987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hu37151987" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yusuf-husayn-39b148331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-husayn-39b148331" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/28591458/yusuf-mohammad-hussein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/28591458/yusuf-mohammad-hussein" height="30" width="40" /></a>
-<a href="https://fb.com/yusuf husayn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yusuf husayn" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/yusuf_husayn1.2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yusuf_husayn1.2/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/28591458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28591458" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100092586386026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100092586386026" height="30" width="40" /></a>
+<a href="https://instagram.com/yusuf_husayn1.2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusuf_husayn1.2" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/joe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joe" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@yusufmohammadhu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yusufmohammadhu1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/joe1.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/joe1.9" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/joe1.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="joe1.9" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abyssblade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abyssblade" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/VYDSdUkTBa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VYDSdUkTBa" height="30" width="40" /></a>
 </p>
