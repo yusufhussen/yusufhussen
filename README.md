@@ -128,7 +128,6 @@
 ---
 ### 🐍 Snake Game (SVG)
 <img src="https://raw.githubusercontent.com/yusufhussen/yusufhussen/output/snake.svg" width = 1500 alt="Snake animation" />
-
 > Built with 🤍 using Markdown, GitHub API, and SVG Animations  
 > 🔧 Maintained by Yusuf Muhammad 🥷🏻
 
