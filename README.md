@@ -1,6 +1,11 @@
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/fde6ddf2-c6e6-4d8c-a997-9cfb68118357" 
+       alt="MasterHead" 
+       style="width: 100%; height: auto; display: block; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+</div>
 <h1 align="center">Hi 👋, I'm Yusuf Muhammad</h1>
 <h3 align="center">Cybersecurity Student from Egypt</h3>
-<img align="right" alt="Coding" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+<img align="left" alt="Coding" width="500" src="https://github.com/user-attachments/assets/255b23f3-90b6-4b94-b35c-02ba8be12950">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufhussen&label=Profile%20views&color=0e75b6&style=flat" alt="yusufhussen" /> </p>
 
