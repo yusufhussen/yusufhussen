@@ -63,7 +63,7 @@
 
 <img width="12" />
 
-<a href="[https://www.notion.so/username](https://www.notion.so/HOME-PAGE-706a7e36b5144d0d837b5844a0d401cd)" target="_blank">
+<a href="https://www.notion.so/HOME-PAGE-706a7e36b5144d0d837b5844a0d401cd" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="40" alt="Notion"/>
 </a>
 
