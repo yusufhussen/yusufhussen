@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf Muhammad</h1>
-<h3 align="center">Cybersecurity Student from Egypt</h3>
+<h3 align="center">Cybersecurity Student from Egypt 
+  Passionate about Cybersecurity and Problem Solving | Learning C/C++, Python, and Web Development | Exploring Linux & Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufhussen&label=Profile%20views&color=0e75b6&style=flat" alt="yusufhussen" /> </p>
 
