@@ -39,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufhussen&show_icons=true&locale=en" alt="yusufhussen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufhussen&" alt="yusufhussen" /></p>
+<img src="https://raw.githubusercontent.com/yusufhussen/yusufhussen/output/snake.svg" width = 1500 alt="Snake animation" />
+
