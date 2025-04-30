@@ -88,11 +88,19 @@
  <!-- VScode -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-  
- <!-- Intellij -->
+
+<!-- Eclipse -->
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/eclipseide.svg" height="40" alt="Eclipse logo" />
+
+<!-- Intellij -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
- 
+
+ <!-- CLion -->
+   <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="CLion logo" />
+
  <!-- Webstorm -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
