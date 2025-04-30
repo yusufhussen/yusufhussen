@@ -125,7 +125,24 @@
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=39E0B8&logoColor=white&labelColor=&style=for-the-badge" alt="Linktree"/>
 </a>
 
+<a href="https://www.youtube.com/@YourChannelName" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" alt="YouTube"/>
+</a>
 
+<!-- Reddit -->
+<a href="https://www.reddit.com/user/Abyss_Blade" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&style=for-the-badge" alt="Reddit"/>
+</a>
+
+<!-- TikTok -->
+<a href="https://www.tiktok.com/@joe466993" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&style=for-the-badge" alt="TikTok"/>
+</a>
+
+<!-- Pinterest -->
+<a href="https://www.pinterest.com/yusufmohammadhussein" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Pinterest&logo=pinterest&label=&color=E60023&logoColor=white&style=for-the-badge" alt="Pinterest"/>
+</a>
 ---
 
 ### 📈 My Stats
