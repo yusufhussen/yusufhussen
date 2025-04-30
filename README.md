@@ -25,6 +25,8 @@
 <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" alt="Markdown"/>
   <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/lua/2C2D72" height="50" alt="Lua"/>
 </div>
 
