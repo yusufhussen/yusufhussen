@@ -21,15 +21,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
   <img width="12" />
 
-  <!-- HTML -->
+<!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
   <img width="12" />
 
-  <!-- CSS -->
+<!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
   <img width="12" />
 
-  <!-- C -->
+ <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C"/>
 <img width="12" />
 
@@ -37,11 +37,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" alt="Markdown"/>
   <img width="12" />
 
-  <!-- Bash -->
+<!-- Bash -->
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
   <img width="12" />
 
-  <!-- Lua -->
+<!-- Lua -->
   <img src="https://cdn.simpleicons.org/lua/2C2D72" height="50" alt="Lua"/>
 </div>
 
@@ -82,7 +82,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
 
   <!-- Gimp -->
-<img width="12" />
+   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
   
   <!-- VScode -->
@@ -91,7 +91,7 @@
   
   <!-- Intellij -->
   <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
  
  <!-- Webstorm -->
   <img width="12" />
@@ -107,10 +107,10 @@
 
  <!-- Jupyter -->
   <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
  
   <!-- Notion -->
-  <img width="12" />
+   <img width="12" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="40" alt="Notion"/>
 
 <!-- Stackoverflow -->
@@ -137,12 +137,14 @@
 <div align="center">
 <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yusuf-husayn-39b148331/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
+      alt="LinkedIn"/>
   </a>
      
 <!-- Telegram -->
   <a href="https://t.me/Yusuf_Mu_Husayn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="Telegram"/>
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" 
+     alt="Telegram"/>
   </a>
 
 <!-- Facebook -->
@@ -165,12 +167,13 @@
   
 <!-- Instagram -->
   <a href="https://www.instagram.com/yusuf_husayn1.2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram"/>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" 
+       alt="Instagram"/>
   </a>
 
 <!-- Whatsapp -->
   <a href="https://wa.me/201288560851" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="WhatsApp"/>
+   <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="WhatsApp"/>
   </a>
 
 <!-- Linktree -->
