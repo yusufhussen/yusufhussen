@@ -125,7 +125,7 @@
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=39E0B8&logoColor=white&labelColor=&style=for-the-badge" alt="Linktree"/>
 </a>
 
-<a href="https://www.youtube.com/@YourChannelName" target="_blank">
+<a href="https://www.youtube.com/@joe5128-v5x" target="_blank">
   <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" alt="YouTube"/>
 </a>
 
