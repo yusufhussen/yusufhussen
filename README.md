@@ -121,7 +121,7 @@
    <img width="12" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="40" alt="Notion"/>
 
-<!-- Stackoverflow -->
+<!-- Codeforces -->
 <img width="12" />
 <a href="https://codeforces.com/profile/joe1.9">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" title="Codeforces" /> </a>
