@@ -319,9 +319,6 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/> My Stats
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusuf-husayn&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="100%" alt="@bestrace103's github-readme-streak-stats"/>
-</p>
 
 <div align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=yusuf-husayn&theme=tokyonight&hide_border=true" />
